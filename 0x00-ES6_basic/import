@@ -1,0 +1,2 @@
+ole.log(taskBlock(true));
+console.log(taskBlock(false));
